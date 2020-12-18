@@ -13,6 +13,7 @@ namespace Ex1_12_12_2020
             // Luz.acende();
            Luz.apaga();
            Luz.mostraEstado();
+
         }
     }
 }
