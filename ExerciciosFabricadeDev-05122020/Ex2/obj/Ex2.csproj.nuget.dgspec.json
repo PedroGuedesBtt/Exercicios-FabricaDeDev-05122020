@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\exercicios\\Exercicios-FabricaDeDev-05122020\\ConsoleApp1\\Ex2\\Ex2.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\exercicios\\Exercicios-FabricaDeDev-05122020\\ExerciciosFabricadeDev-05122020\\Ex2\\Ex2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\exercicios\\Exercicios-FabricaDeDev-05122020\\ConsoleApp1\\Ex2\\Ex2.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\exercicios\\Exercicios-FabricaDeDev-05122020\\ExerciciosFabricadeDev-05122020\\Ex2\\Ex2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\exercicios\\Exercicios-FabricaDeDev-05122020\\ConsoleApp1\\Ex2\\Ex2.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\exercicios\\Exercicios-FabricaDeDev-05122020\\ExerciciosFabricadeDev-05122020\\Ex2\\Ex2.csproj",
         "projectName": "Ex2",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\exercicios\\Exercicios-FabricaDeDev-05122020\\ConsoleApp1\\Ex2\\Ex2.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\exercicios\\Exercicios-FabricaDeDev-05122020\\ExerciciosFabricadeDev-05122020\\Ex2\\Ex2.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\exercicios\\Exercicios-FabricaDeDev-05122020\\ConsoleApp1\\Ex2\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\exercicios\\Exercicios-FabricaDeDev-05122020\\ExerciciosFabricadeDev-05122020\\Ex2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

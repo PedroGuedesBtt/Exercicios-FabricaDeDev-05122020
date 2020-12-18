@@ -45,7 +45,7 @@ namespace ConsoleApp1
             Int64 valorMaximoInt64 = Int64.MaxValue;
             Console.WriteLine("Valor Máximo de um Int64: {0}", valorMaximoInt64);
 
-            
+
             var valorMaximoDeUmByte = byte.MaxValue;
             var valorMinimoDeUmByte = byte.MinValue;
             Console.WriteLine("Valor máximo de um Byte: {0}", valorMaximoDeUmByte);
@@ -67,7 +67,7 @@ namespace ConsoleApp1
             Console.WriteLine("Valor máximo de um ulong: {0}", valorMaximoDeUmULong);
             Console.WriteLine("Valor Mínimo de um ulong: {0}", valorMinimoDeUmULong);
 
-         
+
             var inteiroLiteral = 1;
             var hexaDecimaLiteral = 0x9809B84A1F8478F;//0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
             var binarioLiteral = 0b_010101011111000111011;//0,1
@@ -78,7 +78,7 @@ namespace ConsoleApp1
             char caracterRepresentandoALetraAMinuscula = 'a';
             Console.WriteLine("a: {0}", caracterRepresentandoALetraAMinuscula);
 
-         
+
             float valorMaximoFloat = float.MaxValue;
             float valorMinimoFloat = float.MinValue;
             Console.WriteLine("Valor Máximo de um float: {0}", valorMaximoFloat);
